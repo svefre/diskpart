@@ -8,7 +8,7 @@ I use it to delete all partitions on a USB stick (usually after distro hopping) 
 
 * Press `Windows + R` and enter `diskpart` (allow admin previleges)
 
-## Disks
+## Usage
 
 ```bash
 DISKPART> list disk
